@@ -1,5 +1,6 @@
-### Hello there 👋
+### Hello there 👋<br>
 
+Estudante de desenvolvimento Web Full-Stack. <br> <br>
 
 Me add lá 👇🏼 <br><br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-cesar-774a7a27)](https://www.linkedin.com/in/carlos-cesar-774a7a27)<br>
