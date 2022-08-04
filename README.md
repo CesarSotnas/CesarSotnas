@@ -1,6 +1,6 @@
 ### Hello there 👋<br><br>
 
-Estudante de desenvolvimento back-end. <br> <br>
+Estudante de T.I. <br> <br>
 
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cesar.sotnas) 
