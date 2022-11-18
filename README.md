@@ -1,6 +1,6 @@
 ### Hello there 👋<br><br>
 
-Cientista de Dados em Formação. <br> <br>
+Dev student. <br> <br>
 
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cesar.sotnas) 
