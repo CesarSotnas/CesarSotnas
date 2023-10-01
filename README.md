@@ -1,6 +1,6 @@
 ### Hello there 👋<br><br>
 
-Estudante curioso e apaixonado por Dados com habilidades em SQL, Python, análise de dados e todo o seu ecossistema, transformando a informação em insights através da identificação de padrões. <br> <br>
+Estudante curioso e apaixonado por dados com habilidades em SQL, Python, análise de dados e todo o seu ecossistema, transformando a informação em insights através da identificação de padrões. <br> <br>
 
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cesar.sotnas) 
