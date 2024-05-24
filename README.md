@@ -14,12 +14,12 @@ Pró-atividade | Pensamento analítico | Curioso
 
 Hard Skills:
 
-Análise de Dados | Python | SQL | Power BI | ETL | Excel | Google Sheets
+Javascript | Python | SQL | Power BI | ETL | Excel | Google Sheets
 
 
 Habilidades em desenvolvimento:
 
-Estatística e probabilidade | Power BI (DAX e linguagem M)
+ReactJS | Power BI (DAX e linguagem M)
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cesar.sotnas) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar--santos/)
