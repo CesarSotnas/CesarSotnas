@@ -7,19 +7,14 @@ Profissional com mais de 7 anos de experiência na área suporte em T.I, decidi 
 Pós-Graduado em Ciência de Dados e Inteligência Artificial, no momento estou cursando um Bacharelado em Sistemas de Informação pela UNINTER.
 
 
-Soft Skills:                                                    
-
+Soft Skills: 
 Pró-atividade | Pensamento analítico | Curioso
 
-
 Hard Skills:
-
-Software Developer | Python | Javascript | React | SQL 
-
+Javascript | React | NodeJs | Python | SQL 
 
 Habilidades em desenvolvimento:
-
-React Native | Power BI (DAX e linguagem M)
+React Native | GO
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cesar.sotnas) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar--santos/)
