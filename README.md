@@ -14,7 +14,7 @@ Pró-atividade | Pensamento analítico | Curioso
 
 Hard Skills:
 
-Javascript | React | NodeJs | Python | SQL | Power BI | ETL | Excel | Google Sheets
+Software Developer | Python | Javascript | React | SQL 
 
 
 Habilidades em desenvolvimento:
