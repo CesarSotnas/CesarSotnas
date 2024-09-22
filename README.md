@@ -1,8 +1,8 @@
 ### Hello there 👋<br><br>
 
-Olá, me chamo Cesar Santos, Empreendedor Digital. 
+Olá, me chamo Cesar Santos, Software Devloper. 
 
-Profissional com mais de 7 anos de experiência na área suporte em T.I, decidi seguir carreira na área de programação e análise de dados depois de perceber que já utilizava todo o processo de ELT, automações em Python e Javascript no meu dia a dia. 
+Profissional com mais de 7 anos de experiência na área suporte e infra em T.I, decidi seguir carreira na área de programação e análise de dados depois de perceber que já utilizava todo o processo de ELT, automações em Python e Javascript no meu dia a dia. 
 
 Pós-Graduado em Ciência de Dados e Inteligência Artificial, no momento estou cursando um Bacharelado em Sistemas de Informação pela UNINTER.
 
