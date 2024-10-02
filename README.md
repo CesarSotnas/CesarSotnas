@@ -14,7 +14,7 @@ Hard Skills: <br>
 Javascript | React | NodeJs | Python | SQL 
 
 Habilidades em desenvolvimento: <br>
-React Native | GO
+React Native | GO [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)]
 <br>
 <br>
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cesar.sotnas) 
