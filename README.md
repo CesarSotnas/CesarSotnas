@@ -6,7 +6,6 @@ Minha jornada tem sido movida por curiosidade, consistência e vontade de cresce
  - APIs REST com Go
  - Front-end com React e JavaScript moderno
  - Extensões para navegador e automações com Node.js
- - Ambientes Linux (Pop!_OS / Mint), CLI e performance
  - Git, GitHub e boas práticas de versionamento
 
 
