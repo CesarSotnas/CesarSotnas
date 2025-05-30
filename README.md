@@ -1,10 +1,13 @@
 ### Hello there 👋<br><br>
 
-Olá, me chamo Cesar Santos, Software Devloper. 
+Apaixonado por tecnologia, hoje atuo como desenvolvedor backend com foco em Go (Golang), explorando também o ecossistema JavaScript com React. Venho me aprofundando em arquiteturas sólidas, boas práticas de desenvolvimento e automações que resolvem problemas reais.
 
-Profissional com mais de 7 anos de experiência na área suporte e infra em T.I, decidi seguir carreira na área de programação e análise de dados depois de perceber que já utilizava todo o processo de ELT, automações em Python e Javascript no meu dia a dia. 
-
-Pós-Graduado em Ciência de Dados e Inteligência Artificial, no momento estou cursando um Bacharelado em Sistemas de Informação pela UNINTER.
+Minha jornada tem sido movida por curiosidade, consistência e vontade de crescer. Com projetos próprios e estudos constantes, tenho evoluído em temas como:
+ - APIs REST com Go
+ - Front-end com React e JavaScript moderno
+ - Extensões para navegador e automações com Node.js
+ - Ambientes Linux (Pop!_OS / Mint), CLI e performance
+ - Git, GitHub e boas práticas de versionamento
 
 
 Soft Skills: <br> 
