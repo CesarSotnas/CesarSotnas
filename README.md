@@ -1,6 +1,6 @@
 ### Hello there 👋<br><br>
 
-Apaixonado por tecnologia, hoje atuo como desenvolvedor backend com foco em Go (Golang), explorando também o ecossistema JavaScript com React. Venho me aprofundando em arquiteturas sólidas, boas práticas de desenvolvimento e automações que resolvem problemas reais.
+Curioso por tecnologia, hoje atuo como desenvolvedor backend com foco em Go (Golang), explorando também o ecossistema JavaScript com React. Venho me aprofundando em arquiteturas sólidas, boas práticas de desenvolvimento e automações que resolvem problemas reais.
 
 Minha jornada tem sido movida por curiosidade, consistência e vontade de crescer. Com projetos próprios e estudos constantes, tenho evoluído em temas como:
  - APIs REST com Go
