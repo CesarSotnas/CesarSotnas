@@ -5,7 +5,6 @@ Curioso por tecnologia, hoje atuo como desenvolvedor backend com foco em Go (Gol
 Minha jornada tem sido movida por curiosidade, consistência e vontade de crescer. Com projetos próprios e estudos constantes, tenho evoluído em temas como:
  - APIs REST com Go
  - Front-end com React e JavaScript moderno
- - Extensões para navegador e automações com Node.js
  - Git, GitHub e boas práticas de versionamento
 
 
